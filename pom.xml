@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>co.edureka</groupId>
   <artifactId>spring-hibernate</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>1.0.1-SNAPSHOT</version>
   <dependencies>
 	  <dependency>
 	    <groupId>org.springframework</groupId>
