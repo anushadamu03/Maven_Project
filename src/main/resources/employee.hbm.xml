@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hibernate-mapping>  
+ <class name="co.edureka.ems.dto.Employee" table="Employee">  
+  <id name="id" column="id">  
+   <generator class="assigned"/>
+  </id>                
+  <property name="name" column="name"/>
+  <property name="basic" column="basic"/>
+  <property name="hra" column="hra"  />
+  <property name="da" column="da"/>
+  <property name="deductions" column="deductions"/>
+ </class>              
+</hibernate-mapping> 
